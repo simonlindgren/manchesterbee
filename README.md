@@ -35,5 +35,5 @@ Interval (click # to view)|Date range|Number of images|
 [#5](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int5.png)|24/04/2018 – 23/07/2018|11085
 [#6](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int6.png)|24/07/2018 – 23/10/2018|22211
 [all](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_all.png)|23/04/2017 – 23/10/2018|**52974**
-
+[all-hiRes](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_all_hiRes.png)
 
