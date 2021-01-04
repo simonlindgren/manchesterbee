@@ -13,8 +13,15 @@ This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) a
 
 ----
 
+#### img2vec
 As stated in the article (p. X), "we used a machine learning method image classification, through img2vec ([He et al 2018](https://link.springer.com/chapter/10.1007/978-981-13-2203-7_16)), in order to get an overview of clusters of similar images posted during each interval".'
 
 The img2vec technique starts with extracting a feature vector per image in a dataset. The feature vector is a vector which contains a set of elements (features) that represents the image, its pixels and objects, in terms of for example colour, length, area, circularity, gradient magnitude, gradient direction, grey level, etc. The feature vector is a dense numerical representation of the input image, and it can be used for tasks such as comparing, ranking, classifying and clustering images. Once we have the image vector, we can treat it as we do words in word2vec models, to e.g find nearest neighbours in the embedding space, and to visualise relations between clusters/categories.
 
-More specifically, we used the img2vec method (He et al 2018) and the ResNet50 model for image classification available in the machine learning platform TensorFlow's (Abadi et al 2017) Keras deep learning framework (keras-team 2020). The model has been pre-trained on the Imagenet database (Deng et al 2009) and creates image embeddings that enable a machine to compute similarities between images without knowing what they depict. The method enables predicting which images should be positioned close to each other in a vector space. For this article we then used a combination of Principal Component Analysis (Wold et al 1987) to extract dominant patterns in the matrix, and UMAP (McInnes et al 2020) for further dimension reduction to produce two-dimensional plots of the images for each interval. 
+The actual implementation of the method in this case used feature extraction with [Keras](https://github.com/keras-team/keras), a deep learning API written in Python, running on top of the open-source machine learning platform [TensorFlow](https://www.tensorflow.org/). The method used here uses [the ResNet50 model](https://keras.io/api/applications/) which was pre-trained on [ImageNet](http://www.image-net.org/). 
+
+This was followed by dimensionality reduction with [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA) and [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html). 2d image maps were plotted with [matplotlib](https://matplotlib.org/).
+
+
+
+
