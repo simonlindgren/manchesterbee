@@ -1,6 +1,6 @@
 # manchesterbee 🐝
 
-This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) and [Simon Lindgren](https://).
+This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) and [Simon Lindgren](https://), doi:().
 
 #### Paper abstract
 > At 10.31 pm on 22 May 2017 a bomb detonated in the Manchester Arena after an Ariana Grande concert. It killed 22 concertgoers and injured over 800 more. The worst terror attack in the UK since the 7 July 2005 London bombings, it triggered a massive public response leading to, among other things, improvised memorials, spontaneous vigils, dedicated hashtags, and viral videos. It also sparked the memetic reinvigoration and, subsequently, brandification of one of Manchester’s civic symbols: the worker bee. 
