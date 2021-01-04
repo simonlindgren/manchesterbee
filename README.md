@@ -26,13 +26,13 @@ This was followed by dimensionality reduction with [PCA](https://scikit-learn.or
 2d image maps were plotted with [matplotlib](https://matplotlib.org/).
 
 
-Interval/nClick to view|Date range|Number of images|
+Interval (click # to view)|Date range|Number of images|
 ---:|:---|---:|
-[1](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int1.png)|23/04/2017 – 23/07/2017|7247
-2|24/07/2017 – 23/10/2017|4676
-3|24/10/2017 – 23/01/2018|3798
-4|24/01/2018 – 23/04/2018|3957
-5|24/04/2018 – 23/07/2018|11085
-6|24/07/2018 – 23/10/2018|22211
+[#1](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int1.png)|23/04/2017 – 23/07/2017|7247
+[#2](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int2.png)|24/07/2017 – 23/10/2017|4676
+[#3](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int3.png)|24/10/2017 – 23/01/2018|3798
+[#4](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int4.png)|24/01/2018 – 23/04/2018|3957
+[#5](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int5.png)|24/04/2018 – 23/07/2018|11085
+[#6](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int6.png)|24/07/2018 – 23/10/2018|22211
 
 
