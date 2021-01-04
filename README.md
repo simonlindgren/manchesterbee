@@ -18,7 +18,7 @@ This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) a
 Images matching the hastags `#manchesterbee` and `#manchesterbees` were collected using [instaloader](https://github.com/instaloader/instaloader).
 
 #### IMG2VEC
-As stated in the article (p. X), "we used a machine learning method image classification, through img2vec ([He et al 2018](https://link.springer.com/chapter/10.1007/978-981-13-2203-7_16)), in order to get an overview of clusters of similar images posted during each interval".'
+As stated in the article (p. X), "we used a machine learning method image classification, through img2vec ([He et al 2018](https://link.springer.com/chapter/10.1007/978-981-13-2203-7_16)), in order to get an overview of clusters of similar images posted during each interval".
 
 The img2vec technique starts with extracting a feature vector per image in a dataset. The feature vector is a vector which contains a set of elements (features) that represents the image, its pixels and objects, in terms of for example colour, length, area, circularity, gradient magnitude, gradient direction, grey level, etc. The feature vector is a dense numerical representation of the input image, and it can be used for tasks such as comparing, ranking, classifying and clustering images. Once we have the image vector, we can treat it as we do words in word2vec models, to e.g find nearest neighbours in the embedding space, and to visualise relations between clusters/categories.
 
