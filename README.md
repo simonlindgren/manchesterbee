@@ -20,8 +20,12 @@ The img2vec technique starts with extracting a feature vector per image in a dat
 
 The actual implementation of the method in this case used feature extraction with [Keras](https://github.com/keras-team/keras), a deep learning API written in Python, running on top of the open-source machine learning platform [TensorFlow](https://www.tensorflow.org/). The method used here uses [the ResNet50 model](https://keras.io/api/applications/) which was pre-trained on [ImageNet](http://www.image-net.org/). 
 
-This was followed by dimensionality reduction with [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA) and [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html). 2d image maps were plotted with [matplotlib](https://matplotlib.org/).
+This was followed by dimensionality reduction with [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html#sklearn.decomposition.PCA) and [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html). 
+
+#### plots
+2d image maps were plotted with [matplotlib](https://matplotlib.org/).
 
 
-
-
+| Interval        | Date range           | Number of images  |
+| ------------- |:-------------:| -----:|
+| 1      | 23/04/2017 – 23/07/2017  | 7247 |
