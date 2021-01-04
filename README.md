@@ -26,7 +26,7 @@ This was followed by dimensionality reduction with [PCA](https://scikit-learn.or
 2d image maps were plotted with [matplotlib](https://matplotlib.org/).
 
 
-Interval|Date range|Number of images|
+Interval/nClick to view|Date range|Number of images|
 ---:|:---|---:|
 [1](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int1.png)|23/04/2017 – 23/07/2017|7247
 2|24/07/2017 – 23/10/2017|4676
