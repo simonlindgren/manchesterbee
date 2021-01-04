@@ -1,6 +1,6 @@
 # manchesterbee 🐝
 
-![alt text](imagemaps/mcb_all.png)
+![alt text](imagemaps/mcb_all.png?width=30)
 
 This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) and [Simon Lindgren](https://), doi:().
 
