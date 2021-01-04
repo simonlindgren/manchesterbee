@@ -13,6 +13,10 @@ This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) a
 
 ----
 
+#### DATA COLLECTION
+
+Images matching the hastags `#manchesterbee` and `#manchesterbees` were collected using [instaloader](https://github.com/instaloader/instaloader).
+
 #### IMG2VEC
 As stated in the article (p. X), "we used a machine learning method image classification, through img2vec ([He et al 2018](https://link.springer.com/chapter/10.1007/978-981-13-2203-7_16)), in order to get an overview of clusters of similar images posted during each interval".'
 
