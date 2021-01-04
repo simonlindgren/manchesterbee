@@ -28,7 +28,7 @@ This was followed by dimensionality reduction with [PCA](https://scikit-learn.or
 
 Interval|Date range|Number of images|
 ---:|:---|---:|
-1|23/04/2017 – 23/07/2017|7247
+[1](https://github.com/simonlindgren/manchesterbee/blob/main/imagemaps/mcb_int1.png)|23/04/2017 – 23/07/2017|7247
 2|24/07/2017 – 23/10/2017|4676
 3|24/10/2017 – 23/01/2018|3798
 4|24/01/2018 – 23/04/2018|3957
