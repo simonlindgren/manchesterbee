@@ -27,5 +27,5 @@ This was followed by dimensionality reduction with [PCA](https://scikit-learn.or
 
 
 | Interval        | Date range           | Number of images  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| -----:|
 | 1      | 23/04/2017 – 23/07/2017  | 7247 |
