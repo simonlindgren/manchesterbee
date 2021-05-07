@@ -1,6 +1,6 @@
 # manchesterbee 🐝
 
-This repository accompanies the paper *\<title>* by [Samuel Merrill](https://) and [Simon Lindgren](https://), doi:().
+This repository accompanies the paper *Memes, Brands and the Politics of Post-Terror Togetherness: The Manchester Bee after the 2017 Manchester Arena Bombing* by [Samuel Merrill](https://) and [Simon Lindgren](https://), doi:().
 
 ![alt text](imagemaps/mcb_all.png)
 
